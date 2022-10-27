@@ -1,0 +1,9 @@
+[2022-10-27 06:18:06] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-27 06:18:06] [1] [INFO] TEST [lessonweb - test] STARTED at [21:18:06 2022-10-27]
+[2022-10-27 06:18:06] [1] [INFO] Starting driver session...
+[2022-10-27 06:18:07] [1] [INFO] Driver session started.
+[2022-10-27 06:18:08] [1] [INFO] INFO: opening url 'https://amazon.com/'
+[2022-10-27 06:18:11] [1] [INFO] PASS: element 'dismissButton' is clicked.
+[2022-10-27 06:18:11] [1] [INFO] PASS: keys 'samsung' are sent to element 'searchInput'.
+[2022-10-27 06:18:15] [1] [INFO] PASS: element 'searchButton' is clicked.
+[2022-10-27 06:18:18] [1] [INFO] TEST [lessonweb - test] PASSED at [21:18:18 2022-10-27]

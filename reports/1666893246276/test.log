@@ -1,0 +1,23 @@
+[2022-10-27 05:54:06] [1] [INFO] 
+============= Test configuration =============
+env=PROD
+browser=chrome
+selenium_url=http://localhost:4444/wd/hub
+project_report_directory=./reports
+max_screen_history=10
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.providerOptions=options
+================================================
+
+[2022-10-27 05:54:06] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-27 05:54:07] [1] [INFO] Reflections took 1557 ms to scan 23 urls, producing 3454 keys and 17719 values 
+[2022-10-27 05:54:08] [1] [INFO] [TestNG] Running:
+  /home/xxx/.cache/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+[2022-10-27 05:54:08] [1] [INFO] Set thread-count=1
+[2022-10-27 05:54:08] [1] [INFO] Set data-provider-thread-count=1
+[2022-10-27 05:54:08] [1] [INFO] CARINA_CORE_VERSION: 8.0.0
+[2022-10-27 05:54:20] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-10-27 05:54:20] [1] [INFO] RESULT #1: TEST [web - test] PASS [log=file:///home/xxx/IdeaProjects/web/./reports/1666893246276/b11a0967-b5dd-476d-a562-e516ca734f1e/test.log]

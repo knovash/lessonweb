@@ -1,0 +1,9 @@
+[2022-10-27 05:51:29] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-27 05:51:29] [1] [INFO] TEST [web - test] STARTED at [20:51:29 2022-10-27]
+[2022-10-27 05:51:29] [1] [INFO] Starting driver session...
+[2022-10-27 05:51:31] [1] [INFO] Driver session started.
+[2022-10-27 05:51:31] [1] [INFO] INFO: opening url 'https://amazon.com/'
+[2022-10-27 05:51:35] [1] [INFO] PASS: element 'dismissButton' is clicked.
+[2022-10-27 05:51:35] [1] [INFO] PASS: keys 'sumsung' are sent to element 'searchInput'.
+[2022-10-27 05:51:39] [1] [INFO] PASS: element 'searchButton' is clicked.
+[2022-10-27 05:51:40] [1] [INFO] TEST [web - test] PASSED at [20:51:40 2022-10-27]
